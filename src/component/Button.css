@@ -1,0 +1,21 @@
+button {
+  padding: 0.9rem;
+  border: none;
+  outline: 1px solid black;
+  font-size: 1rem;
+  background-color: #e0e1e6;
+  color: #888;
+  width: 3rem;
+  height: 3rem;
+}
+
+.operator {
+  background-color: #fe9241;
+  color: white
+}
+
+.clear {
+  width: fill-available;
+  background-color: #fe9241;
+  color: white
+}

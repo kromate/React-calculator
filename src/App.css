@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10rem;
+}
+
+.row {
+  display: flex;
+  flex: row;
+}
+
+.screen {
+  width: -webkit-fill-available;
+  height: 3rem;
+  background-color: black;
+  color: white;
+  border: none;
+  outline: 1px solid black;
+  font-size: 2rem;
+}
